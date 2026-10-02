@@ -12,4 +12,5 @@
 
 ### ✍️ Random Dev Quote
 
-<img width="717" height="147" alt="image" src="https://github.com/user-attachments/assets/79cd082c-69e3-4dc0-ab43-b803336388ba" />
+<img width="1102" height="382" alt="image" src="https://github.com/user-attachments/assets/2e01becc-cf11-4dbc-b351-6a8f175f3d25" />
+
